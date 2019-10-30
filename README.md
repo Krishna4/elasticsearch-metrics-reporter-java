@@ -1,9 +1,5 @@
 # Metrics Elasticsearch Reporter
 
-![Project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)
-
-**This project is no longer maintained. If you want to maintain it, please fork and we will link to your new repository.**
-
 ## Introduction
 
 This is a reporter for the excellent [Metrics library](http://metrics.dropwizard.io/), similar to the [Graphite](http://metrics.dropwizard.io/3.1.0/manual/graphite/) or [Ganglia](http://metrics.dropwizard.io/3.1.0/manual/ganglia/) reporters, except that it reports to an Elasticsearch server.
