@@ -1,3 +1,5 @@
+# Documentation Pending
+
 # Metrics Elasticsearch Reporter
 
 ## Introduction
